@@ -1,0 +1,23 @@
+<h2>{{ object.contain_id }}</h2>  
+<h2>{{ object.contain_ip }}</h2>
+<h2>{{ object.contain_netmask }}</h2>  
+<h2>{{ object.contain_port }}</h2>  
+<h2>{{ object.contain_http }}</h2>  
+<h2>{{ object.create_datetime }}</h2>  
+<h2>{{ object.contain_cpu_core }}</h2>  
+<h2>{{ object.contain_host }}</h2>  
+<h2>{{ object.contain_memory }}</h2>  
+<h2>{{ object.contain_hostname }}</h2>
+<h2>{{ object.release_application }}</h2> 
+<h2>{{ object.service_pack }}</h2> 
+<h2>{{ object.service_depend }}</h2> 
+<h2>{{ object.service_env }}</h2> 
+<h2>{{ object.project_name }}</h2> 
+<h2>{{ object.proposer }}</h2> 
+<h2>{{ object.principal }}</h2> 
+<h2>{{ object.project_section }}</h2> 
+<h2>{{ object.state }}</h2> 
+<h2>{{ object.flag }}</h2> 
+<h2>{{ object.x_flag }}</h2> 
+  
+  

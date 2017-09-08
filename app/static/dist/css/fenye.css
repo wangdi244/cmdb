@@ -1,0 +1,15 @@
+*{padding:0;margin:0;border:none;}
+.page
+	{
+		font-size:5px;
+		font-family:"Trebuchet MS",Verdana,Helvetica, sans-serif;
+		color:#232323;
+		background-color:#fff;
+	}
+#Pageing A1{ 
+		background-color:#008844;
+		border:1px solid White;
+		text-decoration:none;color:White;
+		padding:.1em .6em .2em .6em;
+	}
+#Pageing A1.selected{ background-color:#AA7700;}
